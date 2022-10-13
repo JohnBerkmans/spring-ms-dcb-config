@@ -1,4 +1,5 @@
- eureka:
+# Configuration to register with eureka server to implement the service discovery
+eureka:
   instance:
     prefer-ip-address: true
   client:
